@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Buoi4\Bai 2 UDP\bin\Debug\Bai 2 UDP.exe.config
+C:\Users\User\Desktop\Buoi4\Bai 2 UDP\bin\Debug\Bai 2 UDP.exe
+C:\Users\User\Desktop\Buoi4\Bai 2 UDP\bin\Debug\Bai 2 UDP.pdb
+C:\Users\User\Desktop\Buoi4\Bai 2 UDP\obj\Debug\Bai_2_UDP.Form1.resources
+C:\Users\User\Desktop\Buoi4\Bai 2 UDP\obj\Debug\Bai_2_UDP.Properties.Resources.resources
+C:\Users\User\Desktop\Buoi4\Bai 2 UDP\obj\Debug\Bai 2 UDP.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Buoi4\Bai 2 UDP\obj\Debug\Bai 2 UDP.exe
+C:\Users\User\Desktop\Buoi4\Bai 2 UDP\obj\Debug\Bai 2 UDP.pdb
